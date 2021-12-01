@@ -1,0 +1,23 @@
+{
+  "name": "a02-wertops",
+  "version": "1.0.0",
+  "description": "assignment a02 for COMP 426",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Wertops: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@github.com/jdmar3-comp426/a02-Wertops.git"
+  },
+  "author": "Ella Carter and John Martin",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-Wertops/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-Wertops#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
